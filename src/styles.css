@@ -1,0 +1,100 @@
+/* General App Styling */
+.app-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Category Selection */
+  .category-container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .category-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .category-card {
+    background: #007bff;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: 0.3s;
+  }
+  
+  .category-card:hover {
+    background: #0056b3;
+  }
+  
+  /* Quiz Section */
+  .quiz-container {
+    max-width: 600px;
+    margin: auto;
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .question-section {
+    margin-bottom: 20px;
+  }
+  
+  .choices-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .choice-button {
+    background: white;
+    border: 2px solid #007bff;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .choice-button:hover {
+    background: #007bff;
+    color: white;
+  }
+  
+  .choice-button.selected {
+    background: #28a745;
+    color: white;
+  }
+  
+  /* Explanation */
+  .explanation {
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  
+  /* Navigation Buttons */
+  .navigation-buttons {
+    margin-top: 20px;
+  }
+  
+  .next-button {
+    background: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .next-button:hover {
+    background: #0056b3;
+  }
+  
