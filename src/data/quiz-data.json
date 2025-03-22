@@ -14339,10 +14339,10 @@
     {
       "#": 1,
       "Question": "A project team member is consistently missing deadlines, creating bottlenecks for the rest of the team. Which action should the team take to support the team member?",
-      "Option 1": "A) Enroll the team member in time management training.",
-      "Option 2": "B) Ask the team member to speak first at standups",
-      "Option 3": "C) Release the team member.",
-      "Option 4": "D) Pair the team member with a more experienced member of the team.",
+      "Choice 1": "A) Enroll the team member in time management training.",
+      "Choice 2": "B) Ask the team member to speak first at standups",
+      "Choice 3": "C) Release the team member.",
+      "Choice 4": "D) Pair the team member with a more experienced member of the team.",
       "Option 5": "null",
       "Right Answer": "D",
       "Explanation": "While all of these solutions can work and produce a better result for the team and the team member, the best answer in this scenario is to try pairing, which is a coaching situation that can support this team member by revealing competency needs, specifically how to perform tasks in a more timely manner."
@@ -14350,10 +14350,10 @@
     {
       "#": 2,
       "Question": "A virtual team member has recently joined a colocated team. Despite being highly qualified, the team member’s performance is constantly questioned and ridiculed by the collocated team members. Which approach should the team lead take?",
-      "Option 1": "A) Use the team charter to address collaboration and team goals.",
-      "Option 2": "B) Cancel the virtual team member’s contract; clearly, the team is not cohesive.",
-      "Option 3": "C) Organize a weekly virtual coworking session led by a facilitator.",
-      "Option 4": "D) Monitor the situation and intervene only if the virtual team member makes a report to HR.",
+      "Choice 1": "A) Use the team charter to address collaboration and team goals.",
+      "Choice 2": "B) Cancel the virtual team member’s contract; clearly, the team is not cohesive.",
+      "Choice 3": "C) Organize a weekly virtual coworking session led by a facilitator.",
+      "Choice 4": "D) Monitor the situation and intervene only if the virtual team member makes a report to HR.",
       "Option 5": "null",
       "Right Answer": "A",
       "Explanation": "The team lead needs to empower this team to self-organize and address the risk of isolation and bullying the new virtual team member is experiencing. Using the team charter to address collaboration and team goals will remind everyone of the common aims, professionalism, and appropriate conduct they seem to have forgotten."
@@ -14361,10 +14361,10 @@
     {
       "#": 3,
       "Question": "A team member has reported a project manager to HR for shouting during meetings. Other team members validate the complaint, but when the PMO asked the project manager about this, their answer was they were only trying to motivate the team. What is the problem here?",
-      "Option 1": "A) The team members are too sensitive.",
-      "Option 2": "B) The project manager needs to be a servant leader.",
-      "Option 3": "C) The team charter lacks details about polite conduct.",
-      "Option 4": "D) The project manager is unqualified.",
+      "Choice 1": "A) The team members are too sensitive.",
+      "Choice 2": "B) The project manager needs to be a servant leader.",
+      "Choice 3": "C) The team charter lacks details about polite conduct.",
+      "Choice 4": "D) The project manager is unqualified.",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "There could be many reasons for this conflict on the team, but project professionals, as part of their roles as leaders, must exercise appropriate interpersonal skills as servant leaders. Some teams and situations are extremely sensitive; project managers should be able to adapt to lead any kind of team or personality. Clearly, the project manager understands the need to motivate the team, but the question is how to do this in the right way. This is the opportunity presented by servant leadership, to understand how to effectively lead this team by example. Clearly, the team members are indicating their dissatisfaction with the project manager’s current method. Team charters cannot contain detail about every type of communication and expectation on a team."
@@ -14372,10 +14372,10 @@
     {
       "#": 4,
       "Question": "Two project managers are chatting in an airport lounge, on their way to a conference. They have never met and work in different companies. Project manager A tells a story about the last project, in which the team was given strict deadlines for updating artifacts and were audited to ensure risk registers and issue logs were updated at least once per week. Project manager B is shocked by project manager A’s story, because their project team is allowed to work independently, with very little reporting required. Which statement is true?",
-      "Option 1": "A) Project manager B’s PMO has no project governance.",
-      "Option 2": "B) Project manager B’s company does not have a PMO.",
-      "Option 3": "C) Project manager B’s company uses adaptive development approaches that projects adhere to and the PMO ensures compliance.",
-      "Option 4": "D) Project manager B’s company has a supportive PMO which only provides a peripheral role.",
+      "Choice 1": "A) Project manager B’s PMO has no project governance.",
+      "Choice 2": "B) Project manager B’s company does not have a PMO.",
+      "Choice 3": "C) Project manager B’s company uses adaptive development approaches that projects adhere to and the PMO ensures compliance.",
+      "Choice 4": "D) Project manager B’s company has a supportive PMO which only provides a peripheral role.",
       "Option 5": "null",
       "Right Answer": "C",
       "Explanation": "Clearly, these two project managers work in different contexts. Project manager B’s company has a PMO that ensures compliance, but otherwise empowers project teams to self-organize and run adaptive projects."
@@ -14383,10 +14383,10 @@
     {
       "#": 5,
       "Question": "A project team relies on work with an overseas contractor. For years, this contractor accepted payment in the team’s currency, but have now notified the team’s company that after next month, future payments must be made in the contractor’s local currency. How can the team deal with this problem with the least disruption to the team?",
-      "Option 1": "A) Do the work themselves.",
-      "Option 2": "B) Suggest using a fixed price with economic price adjustments contract",
-      "Option 3": "C) Switch vendors.",
-      "Option 4": "D) Renegotiate the contract rate, including a percentage contingency for fluctuating exchange rates.",
+      "Choice 1": "A) Do the work themselves.",
+      "Choice 2": "B) Suggest using a fixed price with economic price adjustments contract",
+      "Choice 3": "C) Switch vendors.",
+      "Choice 4": "D) Renegotiate the contract rate, including a percentage contingency for fluctuating exchange rates.",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "Fixed price contracts with economic price adjustments allow for special provisions for predefined final adjustments to the contract price — e.g., inflation, cost increases (or decreases) for specific commodities. They are ideal for preapproved vendors or those who require international payments and are far more straightforward than accounting for fluctuating exchange rates."
@@ -14394,10 +14394,10 @@
     {
       "#": 6,
       "Question": "The CEO of a global furniture chain authorizes a project to retrofit 35% of the company’s factories with new technology in 2 years, at a maximum cost of $US48 million. The competition in this market is high and the CEO needs to see a return on the investment within 3 years. Which development approach should this project take and why?",
-      "Option 1": "A) A predictive development approach, because the scope, budget and schedule are set.",
-      "Option 2": "B) A hybrid development approach that uses a predictive scheduling process and incremental development of the factories to ensure the value-based expenditure of the budget and resources",
-      "Option 3": "C) A hybrid development approach that uses time-boxed, iterative scheduling with incremental budget releases over the 2-year period; this will ensure the project does not run out of money",
-      "Option 4": "D) A hybrid development approach with a flexible scope, in case anything changes and the company can pivot",
+      "Choice 1": "A) A predictive development approach, because the scope, budget and schedule are set.",
+      "Choice 2": "B) A hybrid development approach that uses a predictive scheduling process and incremental development of the factories to ensure the value-based expenditure of the budget and resources",
+      "Choice 3": "C) A hybrid development approach that uses time-boxed, iterative scheduling with incremental budget releases over the 2-year period; this will ensure the project does not run out of money",
+      "Choice 4": "D) A hybrid development approach with a flexible scope, in case anything changes and the company can pivot",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "A hybrid approach with a predictive scheduling process and incremental development of the work will show the CEO how the project is proving value while controlling the budget and time line."
@@ -14405,10 +14405,10 @@
     {
       "#": 7,
       "Question": "In an organization, some people work longer days in a 4-day week, while others work standard days 5 days per week. On one project, a mix of these schedules has caused some scheduling problems, particularly for standups and iteration demos. Which approach should the team take?",
-      "Option 1": "A) Require the team members who work 4-day weeks to attend the standups on day five.",
-      "Option 2": "B) Self-organize and solve its scheduling problem.",
-      "Option 3": "C) Suggest that everyone on the team use the same work week during this project.",
-      "Option 4": "D) Ask the PMO for advice.",
+      "Choice 1": "A) Require the team members who work 4-day weeks to attend the standups on day five.",
+      "Choice 2": "B) Self-organize and solve its scheduling problem.",
+      "Choice 3": "C) Suggest that everyone on the team use the same work week during this project.",
+      "Choice 4": "D) Ask the PMO for advice.",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "The team needs to make some tough choices here, but they have to be agreeable to everyone. They could agree about how to share information with members who couldn’t attend or hold a standup at the end of the last working day of the 4-day week. Whatever choice they make, agreement in the team charter and a shared perception of work is key."
@@ -14416,10 +14416,10 @@
     {
       "#": 8,
       "Question": "A tech startup has four projects authorized and running: 1. Customer experience (CX) app development with executive stakeholders- 2. Third-party app development with new vendors- 3. Project with global team members who speak six languages- 4. Game development using experimental technology. Which statement about risk and quality is correct?",
-      "Option 1": "A) All of these projects contain the same risk and are subject to the same quality standards because they are in the same organization.",
-      "Option 2": "B) These projects all contain inherent risk and require unique quality metrics.",
-      "Option 3": "C) The project using experimental technology has the highest level of risk and quality standards.",
-      "Option 4": "D) The quality requirements for technology depend on external regulations so, the multilingual project team presents the lowest risk.",
+      "Choice 1": "A) All of these projects contain the same risk and are subject to the same quality standards because they are in the same organization.",
+      "Choice 2": "B) These projects all contain inherent risk and require unique quality metrics.",
+      "Choice 3": "C) The project using experimental technology has the highest level of risk and quality standards.",
+      "Choice 4": "D) The quality requirements for technology depend on external regulations so, the multilingual project team presents the lowest risk.",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "Each project has unique risk and quality requirements and contexts, and they can rarely be compared with one another--even if they are in the same organization!"
@@ -14427,10 +14427,10 @@
     {
       "#": 9,
       "Question": "A racing team has just finished a season and is preparing for next season. The owners think they should change the way the business works to make the company more efficient and have better control over outcomes and budget. The team engineers want to continue researching and running highly experimental design and technology developments. The racing team has hired a project manager for consultation. What should the project manager recommend?",
-      "Option 1": "A) Ask the owners to adopt a “fail fast” mindset to follow the lead of the engineers.",
-      "Option 2": "B) Ask the project team to identify areas for potential efficiencies using methods like Monte Carlo simulation.",
-      "Option 3": "C) Suggest the adoption of a company-wide cultural transformation based on the agile mindset that will foster holistic improvements.",
-      "Option 4": "D) Suggest initiation of a project based on achieving the business departments’ objectives and key results (OKRs).",
+      "Choice 1": "A) Ask the owners to adopt a “fail fast” mindset to follow the lead of the engineers.",
+      "Choice 2": "B) Ask the project team to identify areas for potential efficiencies using methods like Monte Carlo simulation.",
+      "Choice 3": "C) Suggest the adoption of a company-wide cultural transformation based on the agile mindset that will foster holistic improvements.",
+      "Choice 4": "D) Suggest initiation of a project based on achieving the business departments’ objectives and key results (OKRs).",
       "Option 5": "null",
       "Right Answer": "C",
       "Explanation": "The conflict between control and innovation is common in business settings. The agile mindset and methodologies propose a way of providing a means to doing both simultaneously and in partnership. Without a culture change, this organization may continue to perceive that control by the owners is incompatible with innovation."
@@ -14438,10 +14438,10 @@
     {
       "#": 10,
       "Question": "An international bank is performing a merger as part of a major program change and hired a consulting company to perform an advisory role during the merger. The consultants recommend using agile to ensure the best chance of success. What do the consultants mean by this?",
-      "Option 1": "A) They need to work quickly.",
-      "Option 2": "B) Use of agile practices to complete financial mergers is a best practice.",
-      "Option 3": "C) Adopting the agile mindset helps organizations navigate complexity.",
-      "Option 4": "D) The merger should be completed in increments.",
+      "Choice 1": "A) They need to work quickly.",
+      "Choice 2": "B) Use of agile practices to complete financial mergers is a best practice.",
+      "Choice 3": "C) Adopting the agile mindset helps organizations navigate complexity.",
+      "Choice 4": "D) The merger should be completed in increments.",
       "Option 5": "null",
       "Right Answer": "C",
       "Explanation": "Agile practices are helpful in incremental and rapid development, and they are informed by the agile mindset, which is a group of four values and 12 principles about how to think and behave within the practice of agile methods. When project professionals refer to “being agile,” they are referring to the mindset, which bears the characteristics of the life cycle of the same name."
@@ -14449,10 +14449,10 @@
     {
       "#": 11,
       "Question": "An agile project team is working on improvements to the user experience (UX) for an online newspaper. The team thinks this is a fairly low-risk project, so they forgo a risk assessment and start working. The product owner disagrees and commissions a risk assessment. Which statement is correct about this scenario?",
-      "Option 1": "A) Project risk is everyone’s responsibility, and the team should not have skipped the risk assessment.",
-      "Option 2": "B) The risk assessment will be completed so, everything is fine.",
-      "Option 3": "C) If the team is correct, the product owner is wasting time and resources.",
-      "Option 4": "D) Risk assessment is the product owner’s responsibility.",
+      "Choice 1": "A) Project risk is everyone’s responsibility, and the team should not have skipped the risk assessment.",
+      "Choice 2": "B) The risk assessment will be completed so, everything is fine.",
+      "Choice 3": "C) If the team is correct, the product owner is wasting time and resources.",
+      "Choice 4": "D) Risk assessment is the product owner’s responsibility.",
       "Option 5": "null",
       "Right Answer": "A",
       "Explanation": "Risk is everywhere and inherent in every project or activity. Project risk is everyone’s responsibility. The team, the product owner, and the stakeholders should be aware of the various risks of the project in relation to its environment. Whether the risk assessment is a formal or informal method depends on the project context, but some form of risk assessment must be done."
@@ -14460,10 +14460,10 @@
     {
       "#": 12,
       "Question": "A company executive who is not a key project stakeholder of a project has expressed continued interest and opinions directly to the project team. The key stakeholders are becoming annoyed and perceive the executive to be interfering and causing unwanted noise, but the project team finds the executive’s inputs helpful. What should the team do first?",
-      "Option 1": "A) Ask the product owner to intervene in the conflict.",
-      "Option 2": "B) Add this executive to the team as a key stakeholder.",
-      "Option 3": "C) Discuss what should happen at the next retrospective.",
-      "Option 4": "D) Use Speed B Leas conflict management techniques.",
+      "Choice 1": "A) Ask the product owner to intervene in the conflict.",
+      "Choice 2": "B) Add this executive to the team as a key stakeholder.",
+      "Choice 3": "C) Discuss what should happen at the next retrospective.",
+      "Choice 4": "D) Use Speed B Leas conflict management techniques.",
       "Option 5": "null",
       "Right Answer": "C",
       "Explanation": "There is a lot happening here that could be beneficial to the project but could also be harmful—the existing stakeholders could feel threatened, or the scope could be changing from what the stakeholders envisioned with the executive’s inputs. The team needs to decide what to do, but with a clear consensus and expert judgment before taking action. A retrospective is about gaining insights for team improvement. All of the options could likely happen as well, but the first thing to do is discuss with the team. If the team agrees that further engagement is desirable, then the team could move on to reclassification of the stakeholder and any resulting conflict management."
@@ -14471,10 +14471,10 @@
     {
       "#": 13,
       "Question": "A project team is worried about product packaging and presentation. They receive a lot of negative feedback about this during iteration demos. How can the team improve their chances of customer acceptance?",
-      "Option 1": "A) Look through the customer’s social media accounts and perform a qualitative analysis of customer attitudes towards packaging.",
-      "Option 2": "B) Investigate changes in the external business environment related to consumer attitudes about packaging.",
-      "Option 3": "C) Revise the definition of done (DoD) with the customer.",
-      "Option 4": "D) Find better options for packaging.",
+      "Choice 1": "A) Look through the customer’s social media accounts and perform a qualitative analysis of customer attitudes towards packaging.",
+      "Choice 2": "B) Investigate changes in the external business environment related to consumer attitudes about packaging.",
+      "Choice 3": "C) Revise the definition of done (DoD) with the customer.",
+      "Choice 4": "D) Find better options for packaging.",
       "Option 5": "null",
       "Right Answer": "C",
       "Explanation": "Finding better packaging is definitely the goal in this scenario, but it’s a question of how! Teams can research and recommend, and while project teams should always be aware of how external changes could impact their project, the customer is the first place to start to determine the criteria for what they will accept. The definition of done (DoD) must be agreed and updated to customer needs—and this is subject to change in an adaptive project!"
@@ -14482,10 +14482,10 @@
     {
       "#": 14,
       "Question": "A project team is working in a remote location, and its operability is threatened due to severe supply chain disruption. This risk was listed in the risk register, but the severity of the disruption was not accounted for, so guidance on the response is minimal. What should the team do first?",
-      "Option 1": "A) Seek expert judgment on the matter and revise the risk response.",
-      "Option 2": "B) Focus on maintaining team coherence",
-      "Option 3": "C) Cancel the project.",
-      "Option 4": "D) Escalate to an organizational resource that can help.",
+      "Choice 1": "A) Seek expert judgment on the matter and revise the risk response.",
+      "Choice 2": "B) Focus on maintaining team coherence",
+      "Choice 3": "C) Cancel the project.",
+      "Choice 4": "D) Escalate to an organizational resource that can help.",
       "Option 5": "null",
       "Right Answer": "A",
       "Explanation": "External enterprise environmental factors (EEFs) can often take us by surprise and pose serious threats, even with careful planning. In this case, the team should rely on expert judgment to figure out how to continue working as well as possible, given the difficult circumstances."
@@ -14493,10 +14493,10 @@
     {
       "#": 15,
       "Question": "A project manager meets frequently with a company’s diversity, equity and inclusion (DE&I) coordinator, because several members of the project team wear t-shirts on Fridays that others in the organization consider controversial. They are allowed to wear the shirts, but there are numerous complaints from around the company. What should the project manager do first?",
-      "Option 1": "A) Caution the team members about wearing the t-shirts to work.",
-      "Option 2": "B) Coach the team members on self-awareness.",
-      "Option 3": "C) Continue meeting with the DE&I coordinator.",
-      "Option 4": "D) Find out why they are wearing the t-shirts.",
+      "Choice 1": "A) Caution the team members about wearing the t-shirts to work.",
+      "Choice 2": "B) Coach the team members on self-awareness.",
+      "Choice 3": "C) Continue meeting with the DE&I coordinator.",
+      "Choice 4": "D) Find out why they are wearing the t-shirts.",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "Understanding the cultural contexts of the organization, its larger culture(s), and the individuals involved is essential in choosing the right course of action here. If the team members were not allowed to wear the shirts in the first place, then the easy answer is discipline, but since the team is permitted to wear the shirts, this potentially difficult situation risks getting a bit worse each Friday. The best course of action is to coach the team members on how to be more self-aware so they can understand how their actions may be causing others distress, even though the t-shirts are allowed. This answer is more transformational than any of the others and will provide better, longer lasting results."
@@ -14504,10 +14504,10 @@
     {
       "#": 16,
       "Question": "The executives, managers and coaches of a professional sports team often disagree. On a current project to create a VIP perks program, the product owner gets wildly conflicting inputs from the stakeholders ––9 executives, managers and coaches. The product owner who is new to the organization asks the team for help on making decisions to create the initial product backlog. What should the team do?",
-      "Option 1": "A) Meet with the stakeholders to brainstorm, allow stakeholders to give their opinions and use active listening and expert judgment to note areas of agreement for use in creating user stories.",
-      "Option 2": "B) Interview the stakeholders separately and then the team and product owner can make the decisions.",
-      "Option 3": "C) Hold a kickoff meeting with all stakeholders, present the conflicting points of view and take notes on the whiteboard. These will become user stories.",
-      "Option 4": "D) Since the stakeholders can’t agree, send them individual surveys to collect data, then write user stories and use voting techniques to prioritize them.",
+      "Choice 1": "A) Meet with the stakeholders to brainstorm, allow stakeholders to give their opinions and use active listening and expert judgment to note areas of agreement for use in creating user stories.",
+      "Choice 2": "B) Interview the stakeholders separately and then the team and product owner can make the decisions.",
+      "Choice 3": "C) Hold a kickoff meeting with all stakeholders, present the conflicting points of view and take notes on the whiteboard. These will become user stories.",
+      "Choice 4": "D) Since the stakeholders can’t agree, send them individual surveys to collect data, then write user stories and use voting techniques to prioritize them.",
       "Option 5": "null",
       "Right Answer": "A",
       "Explanation": "Conflict is a part of decision-making, and it can be an important source of ideation in groups. Especially in an organizational culture that has a lot of inherent conflict, stakeholders may be accustomed to conflict as part of the culture. The kickoff meeting is not the place to resolve problems."
@@ -14515,10 +14515,10 @@
     {
       "#": 17,
       "Question": "A PMO in a large manufacturing company has been working diligently to retrain project managers and standardize software and templates across all projects, so that every project in the company will produce compliant artifacts. Which type of PMO is being described?",
-      "Option 1": "A) Supporting",
-      "Option 2": "B) Controlling",
-      "Option 3": "C) Directive",
-      "Option 4": "D) Agile Center of Excellence",
+      "Choice 1": "A) Supporting",
+      "Choice 2": "B) Controlling",
+      "Choice 3": "C) Directive",
+      "Choice 4": "D) Agile Center of Excellence",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "Controlling PMOs provide support and require compliance through various means. Compliance may involve adopting project management frameworks or methodologies; using specific templates, forms and tools; or conforming to governance. Supportive PMOs provide a consultative role to projects by supplying templates, best practices, training, access to information and lessons learned from other projects. Directive PMOs take control of projects by directly managing the projects or shared resources, including project managers. A relatively small number of PMOs fall into this category. Agile Centers of Excellence (ACoE) or Value Delivery Offices (VDO) are emerging within organizations adopting more decentralized structures where teams need to respond quickly to changing customer needs. Their role is different, taking on coaching and mentoring efforts, rather than a managerial one."
@@ -14526,10 +14526,10 @@
     {
       "#": 18,
       "Question": "A company initiates a project to replace aging infrastructure by adopting an emerging green technology. The team is forming and having initial conversations about how to approach the project. Which THREE of the following will be helpful to the team? (Choose THREE)",
-      "Option 1": "A) Benefits Management Plan",
-      "Option 2": "B) Business Case",
-      "Option 3": "C) Initial Risk Assessment",
-      "Option 4": "D) Benefit-Cost Analysis",
+      "Choice 1": "A) Benefits Management Plan",
+      "Choice 2": "B) Business Case",
+      "Choice 3": "C) Initial Risk Assessment",
+      "Choice 4": "D) Benefit-Cost Analysis",
       "Option 5": "E) Team Charter",
       "Right Answer": "B,C,E",
       "Explanation": "The most helpful assets to a newly forming team on a project with high risk are the business case, an initial risk assessment, and the team charter. These documents state why the business needs or wants the project and helps determine the resources needed, the inherent risk in undertaking the project, and the terms of working together. The benefit-cost analysis helps compare the proposed benefits to the costs so, this is useful a bit later on. The benefits management plan should start to be formed at this stage, but this is a summary of what the expected benefits are from updating the infrastructure and adopting the new technology, as well as how they will be delivered to and measured by the business."
@@ -14537,10 +14537,10 @@
     {
       "#": 19,
       "Question": "A project team is brainstorming a complex issue with the prototype in development. They have consulted numerous experts in the field and together, have narrowed down the choice of possible actions to two. How should the team decide which action to take?",
-      "Option 1": "A) Empower the team lead to choose.",
-      "Option 2": "B) Choose based on lower cost.",
-      "Option 3": "C) Use the Delphi technique.",
-      "Option 4": "D) Review the project management plan.",
+      "Choice 1": "A) Empower the team lead to choose.",
+      "Choice 2": "B) Choose based on lower cost.",
+      "Choice 3": "C) Use the Delphi technique.",
+      "Choice 4": "D) Review the project management plan.",
       "Option 5": "null",
       "Right Answer": "C",
       "Explanation": "This team is cohesive and is doing the right things to problem-solve. They have already consulted the experts, as this is what the Delphi technique calls for so, there is reason to think they can continue to employ this unanimous decision-making method of consulting experts and arriving at a course of action based on their advice."
@@ -14548,10 +14548,10 @@
     {
       "#": 20,
       "Question": "An agile project team is working in an environment that is experiencing significant and disruptive upheaval. Team members are not performing well due to the stress, but work must continue. What should the team do?",
-      "Option 1": "A) Rely on the agile coach to focus the team on desired outcomes.",
-      "Option 2": "B) Ask the product owner to add time to the schedule.",
-      "Option 3": "C) Continue working as normal.",
-      "Option 4": "D) Examine project closure or cancellation options.",
+      "Choice 1": "A) Rely on the agile coach to focus the team on desired outcomes.",
+      "Choice 2": "B) Ask the product owner to add time to the schedule.",
+      "Choice 3": "C) Continue working as normal.",
+      "Choice 4": "D) Examine project closure or cancellation options.",
       "Option 5": "null",
       "Right Answer": "A",
       "Explanation": "If work must continue, then the answer is finding a way to focus on the work. Extending deadlines or pretending nothing is wrong can be risky. Examining project closure options may be a bit drastic at this stage."
@@ -14559,10 +14559,10 @@
     {
       "#": 21,
       "Question": "An executive in the company who is not a key project stakeholder of a project has expressed continued interest in the project and frequently gives their opinions directly to the project team. The key stakeholders are becoming annoyed and perceive the executive to be interfering, but the project team finds the executive’s inputs helpful. Which TWO options are present in this situation? (Choose TWO)",
-      "Option 1": "A) An Intractable/War Situation, in the Leas Conflict Model",
-      "Option 2": "B) A Potential Conflict",
-      "Option 3": "C) Escalation Required",
-      "Option 4": "D) An Opportunity",
+      "Choice 1": "A) An Intractable/War Situation, in the Leas Conflict Model",
+      "Choice 2": "B) A Potential Conflict",
+      "Choice 3": "C) Escalation Required",
+      "Choice 4": "D) An Opportunity",
       "Option 5": "E) An Impediment",
       "Right Answer": "B,D",
       "Explanation": "There is a potential conflict here between the key stakeholders and the executives – and also with the team. However, there is an opportunity present in the helpfulness of the executive’s inputs."
@@ -14570,10 +14570,10 @@
     {
       "#": 22,
       "Question": "A virtual project team has been working together for a month. During this time, they have bonded a little, and then at an in-person team-building day, they finally meet each other. At this meeting, the team decides they would like to make a change to the weekly status meeting ground rules and include a little time for socializing. They think it will help to ease the feelings of isolation many of them express. The current team charter states that status team meetings are to be used for work purposes only. What should the project manager do first?",
-      "Option 1": "A) Allow the team to schedule a separate meeting during work hours for socializing.",
-      "Option 2": "B) Change the ground rules to allow socializing during the first 10 minutes only of weekly status meetings.",
-      "Option 3": "C) Schedule another collocated team-building event soon.",
-      "Option 4": "D) Poll team members to measure support for changing the ground rules.",
+      "Choice 1": "A) Allow the team to schedule a separate meeting during work hours for socializing.",
+      "Choice 2": "B) Change the ground rules to allow socializing during the first 10 minutes only of weekly status meetings.",
+      "Choice 3": "C) Schedule another collocated team-building event soon.",
+      "Choice 4": "D) Poll team members to measure support for changing the ground rules.",
       "Option 5": "null",
       "Right Answer": "D",
       "Explanation": "For a change to the ground rules, the team’s consensus is key. All of the other choices are definitely possible but will impact the project negatively. A separate meeting would risk taking team focus away during working hours; changing the ground rules and limiting it would seem autocratic; another team-building event would be costly in time and money."
@@ -14581,10 +14581,10 @@
     {
       "#": 23,
       "Question": "An agile team is deployed to create a workable solution for helping a region with contaminated water supply. They are working with the government, contractors, and local residents to find the right technology to solve the problem. The product owner is trying to determine the urgency of the problem. How can the team help the product owner?",
-      "Option 1": "A) Research the market and make a list of available technologies.",
-      "Option 2": "B) Work with the local stakeholders to find out how much they are affected.",
-      "Option 3": "C) Determine the cost of a few solutions.",
-      "Option 4": "D) Find out how many people are affected.",
+      "Choice 1": "A) Research the market and make a list of available technologies.",
+      "Choice 2": "B) Work with the local stakeholders to find out how much they are affected.",
+      "Choice 3": "C) Determine the cost of a few solutions.",
+      "Choice 4": "D) Find out how many people are affected.",
       "Option 5": "null",
       "Right Answer": "B",
       "Explanation": "The customers in this project are the local stakeholders, and the team is responsible for finding out their needs and desired outcomes. The cost, available technologies, and number of people affected will determine the course of action, but the required sense of urgency can only be known by asking those affected."
@@ -14592,10 +14592,10 @@
     {
       "#": 24,
       "Question": "A project in a university to create a seed bank is complete. It was the first project used in the organization to use an agile approach. The deliverables were identified by the product owner. Some of the stakeholders are concerned about quality and have not signed off on the deliverables. What is the best way to collect feedback on the definition of done (DoD)?",
-      "Option 1": "A) Create a temporary wiki site for stakeholders to provide anonymous feedback.",
-      "Option 2": "B) Review all the lessons learned to evaluate strategic alignment.",
-      "Option 3": "C) Send a satisfaction survey and then set up a focus group.",
-      "Option 4": "D) Conduct a product review meeting with the concerned stakeholders.",
+      "Choice 1": "A) Create a temporary wiki site for stakeholders to provide anonymous feedback.",
+      "Choice 2": "B) Review all the lessons learned to evaluate strategic alignment.",
+      "Choice 3": "C) Send a satisfaction survey and then set up a focus group.",
+      "Choice 4": "D) Conduct a product review meeting with the concerned stakeholders.",
       "Option 5": "null",
       "Right Answer": "D",
       "Explanation": "Direct and regular feedback from stakeholders is a normal feature of agile development approaches. Since this is the organization’s first agile project, the stakeholders may not realize how the process relates to quality in an ongoing and continuous way. The best approach is to meet with them and review the product. Agile recommends face-to-face contact and colocation whenever possible."
@@ -14603,10 +14603,10 @@
     {
       "#": 25,
       "Question": "A project team has just successfully completed development of an underwater exploration device, which has cost more than $US3 billion to deliver. The company immediately orders five more units to be delivered, but with a budget of $US1 billion. The stakeholders' reason for the reduced budget was since the technology has been developed, the project can be funded for building costs primarily, with a small amount for troubleshooting or development work. The stakeholders’ priority is to recoup some financial value from the first project. How should the team and the product owner approach this situation?",
-      "Option 1": "A) Research the risk associated with the low budget for this work and present this to the stakeholders.",
-      "Option 2": "B) Explore with the stakeholders less risky ways to gain financial value from the first project.",
-      "Option 3": "C) Create a story map for the proposed development with the risks clearly accounted for in the work items.",
-      "Option 4": "D) Include a feature that addresses the risk approach to this work.",
+      "Choice 1": "A) Research the risk associated with the low budget for this work and present this to the stakeholders.",
+      "Choice 2": "B) Explore with the stakeholders less risky ways to gain financial value from the first project.",
+      "Choice 3": "C) Create a story map for the proposed development with the risks clearly accounted for in the work items.",
+      "Choice 4": "D) Include a feature that addresses the risk approach to this work.",
       "Option 5": "null",
       "Right Answer": "A",
       "Explanation": "Since the stakeholders’ priority is to recoup financial value from a previous project, their focus is on the money. You need to speak directly to them about the money, in this case how the low budget presents a risk that could create serious problems. Exploring other options will not address an additional risk inherent in this scenario—that of unrealistic stakeholder expectations. Both of these are part of the steward's role in the project."
@@ -14614,10 +14614,10 @@
     {
       "#": 26,
       "Question": "A project manager is assessing the risks to a hybrid project in the execution stage. At the end of each iteration, the team has only reported normal issues such as equipment malfunctions. However, the team has recently alerted the project manager to a developing problem that signal regulatory noncompliance for the product. Which artifact should the project manager review and update?",
-      "Option 1": "A) Risk Register",
-      "Option 2": "B) Probability/Impact Matrix",
-      "Option 3": "C) Risk Management Plan",
-      "Option 4": "D) Product Technical Documentation",
+      "Choice 1": "A) Risk Register",
+      "Choice 2": "B) Probability/Impact Matrix",
+      "Choice 3": "C) Risk Management Plan",
+      "Choice 4": "D) Product Technical Documentation",
       "Option 5": "null",
       "Right Answer": "A",
       "Explanation": "Since noncompliance is a known risk area, the project manager can find information related to the management of this risk in the risk register. The probability/impact matrix will provide details of the consequences of the risk so, this will be useful after the risk has been assessed. The risk management plan and the technical documentation will contain helpful information, but not at this stage, when the project manager simply needs to know if the developing problem has escalated and poses the threat of becoming an issue."
