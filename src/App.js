@@ -1,54 +1,3 @@
-// import React, { useState, useEffect } from "react";
-// import CategorySelection from "./components/CategorySelection";
-// import QuizPage from "./components/QuizPage";
-
-// export default function App() {
-//   const [categories, setCategories] = useState([]);
-//   const [quizData, setQuizData] = useState({});
-//   const [selectedCategory, setSelectedCategory] = useState(null);
-
-//   useEffect(() => {
-//     const fetchData = async () => {
-//       try {
-//         const url = "https://script.google.com/macros/s/AKfycbzYfc5RJX0saoFyCY50ozcveaZrzH2i7bDmeELZt54SHUd1eSO9KY30fYRgirMe7FAcxA/exec"; // Replace with your script URL
-//         const response = await fetch(url);
-//         const data = await response.json();
-
-//         const categorizedData = Object.keys(data).reduce((acc, category) => {
-//           acc[category] = data[category].map(item => ({
-//             question: item["Question"],
-//             choices: {
-//               A: item["Choice 1"],
-//               B: item["Choice 2"],
-//               C: item["Choice 3"],
-//               D: item["Choice 4"],
-//             },
-//             correctAnswer: item["Right Answer"],
-//             explanation: item["Explanation"],
-//           }));
-//           return acc;
-//         }, {});
-
-//         setCategories(Object.keys(categorizedData));
-//         setQuizData(categorizedData);
-//       } catch (error) {
-//         console.error("Error fetching quiz data:", error);
-//       }
-//     };
-
-//     fetchData();
-//   }, []);
-
-//   return (
-//     <div>
-//       {!selectedCategory ? (
-//         <CategorySelection categories={categories} onSelect={setSelectedCategory} />
-//       ) : (
-//         <QuizPage category={selectedCategory} questions={quizData[selectedCategory]} onBack={() => setSelectedCategory(null)} />
-//       )}
-//     </div>
-//   );
-// }
 import React, { useState, useEffect } from "react";
 import "./styles.css";
 import quizData from "./data/quiz-data.json";
@@ -170,3 +119,4 @@ export default function QuizApp() {
     </div>
   );
 }
+
